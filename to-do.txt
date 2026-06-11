@@ -1,4 +1,0 @@
-Sobald unbekannt im sektor ist wird der user gefragt diese manuell einzutragen
-ganze streamlit app bauen in app.py
-seite hochladen mit der manuellen eingabe
-dann sektoranzeige von sektoren im piechart
